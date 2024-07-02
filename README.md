@@ -59,6 +59,21 @@ To run tests, you can use a testing framework like Jest or Mocha. Here is an exa
 
 ![image](https://github.com/tejasrocksHere/WorkIndia-Apis/assets/114760784/c24718ce-9532-444c-96e8-2de7549b0ac9)
 
+![image](https://github.com/tejasrocksHere/WorkIndia-Apis/assets/114760784/c7323c3b-a473-4f7c-ae05-85c54ccaaadb)
+
+![image](https://github.com/tejasrocksHere/WorkIndia-Apis/assets/114760784/c3654c6d-8d5d-47f0-9b27-704d46fc20ea)
+
+![image](https://github.com/tejasrocksHere/WorkIndia-Apis/assets/114760784/e0feb346-c6d0-4eb5-a27e-d3b3028848d3)
+
+![image](https://github.com/tejasrocksHere/WorkIndia-Apis/assets/114760784/79da4669-cf20-409e-bf65-9788556043db)
+
+![image](https://github.com/tejasrocksHere/WorkIndia-Apis/assets/114760784/d89b0a43-9ae1-4853-84aa-cb7dfa71fe46)
+
+
+
+
+
+
 ## Assumptions
 
 - The MySQL database is running locally on the default port.
